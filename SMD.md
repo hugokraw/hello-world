@@ -65,11 +65,21 @@
   * They claim it is unommon for insurance companies to lower premium on the basis of cybersecurity protection (e.g., do you patch your systems?)
 
 ### I Engage Only with Trusted Websites, So My Data Is Safe from a Breach
-
 * When purchasing online user may consider if they trust the company and may check running over https, but trust can be breached in many other ways
   * even trusted companies get hacked; no modern website is self-contained; victim's own device may be the culprit
 * User countereasures: Do not use public computer, use virtual one-time credit card __(story)__
 
+### Seurity by Obscurity
+* Avoid obscurity as the _sole_ means of protection
+* Obscurity might add to security: Sometimes imposing the additional cost of unhiding an unpublished piece of information may make a difference
+* Note: Kerkhoffs Principle
+* __Amazon cases__: Location of data centers and Nitro security
+
+  ### The Illusions of Visibility and Control
+  * Belief that the more we see the better we understand (and control) security
+  * Mainly concerned with the weight people give to networkand threat visualization: They claim it to be ineffective (even distracting)
+  * Along woth the illusion of visibility is the illusion of control. "It is an illusion that we can fully ontrol what the adversary is doing"; "Mirages that hise the actual events behind the pretty from end".
+  * __To me it feels__ like one of these emotional opinionated, weakly founded, claims (sure, it is bad if you think you can completely control the atacker, but are these monitoring tools so usleless?
 ###
 ##
 
