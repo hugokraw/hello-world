@@ -75,14 +75,53 @@
 * Note: Kerkhoffs Principle
 * __Amazon cases__: Location of data centers and Nitro security
 
-  ### The Illusions of Visibility and Control
-  * Belief that the more we see the better we understand (and control) security
-  * Mainly concerned with the weight people give to networkand threat visualization: They claim it to be ineffective (even distracting)
-  * Along woth the illusion of visibility is the illusion of control. "It is an illusion that we can fully ontrol what the adversary is doing"; "Mirages that hise the actual events behind the pretty from end".
-  * __To me it feels__ like one of these emotional opinionated, weakly founded, claims (sure, it is bad if you think you can completely control the atacker, but are these monitoring tools so usleless?
-###
-##
+### The Illusions of Visibility and Control
+* Belief that the more we see the better we understand (and control) security
+* Mainly concerned with the weight people give to networkand threat visualization: They claim it to be ineffective (even distracting)
+* Along woth the illusion of visibility is the illusion of control. "It is an illusion that we can fully ontrol what the adversary is doing"; "Mirages that hise the actual events behind the pretty from end".
+* __To me it feels__ like one of these emotional opinionated, weakly founded, claims (sure, it is bad if you think you can completely control the atacker, but are these monitoring tools so usleless?
 
+### Five 9's Is the Key to Cybersecurity
+* 5 9's (=99.999% availability): 5.26 minutes/year; 4 9's 52.6 minutes/year. But it has a cost, is it justified?
+ * Example: "Amazon S3 has availability of _only_ 99.99%  (__Is this true?__)
+* Availability is not a guarantee of reliability or resilience
+
+### Everybody Has Top-of-the-Line Technology
+* "97% of Americans own a smartphone. But only 61% among 65 and older."  __(Math check?)__
+* Not everyone has the latest phone or laptop or software; so do not build things under that assumption.
+* Check demographic studies, test usability under legacy technology.
+
+### We Can Predict Future Threats
+* Predictions (guesstimates) vs. forecasts (evidence-based)
+* Predicting next year threats is hard; predicting next-year technology is hard too.
+* "Humans are endlessly inventive"
+
+### Security People Control Security Outcomes
+* Our (cybersecurity people) actions do matter and demonstrate some control
+* But a lot is left to unknown, unforseen attacks
+* Everyone should appreciate what security people can and cannot control
+
+### Al Bad Outcomes Ar the Result of a Bad Decision
+* Decisions leading to bad effect do not necessarily mean the decision was bad
+* Cost and other considerations may call for early release of s/w before it is thoroughly checked for bugs/exploits
+* Opportunity cost (loss of potentil gain from other alternatives) should be an integral aspect of cybersecurity in every decision  __(it is all about tradeoffs?)__
+
+### More Security Is Always Better
+* "There is such a thing as too much security"
+* Pitfall: One Automation Framework to Rule Them All. Might sacrifice a good-enough manual solution to seek a perfect _automated_ solution __(What do they mean? Page 84)__
+* Knowing when enough security is enough is a rare skill (opportunity cost)
+
+### Best Practices Are Always Best
+* Best practices intended as general guidelines developed and refined over time
+* Generic, esigned to fit every situation, not each precise situation
+* Good cybersecurity people use them as suggestions rather than rules
+* "people should not base their entire cybersecurity posture on mindless, static, generic rules.
+* __Hugo thinks Best Practices guidelines are__ ___very important__  __(e.g., regulations, litigation)
+  
+### Because It Is Online It Must Be True/Correct 
+* People searching information do not have the background to evaluate the information they find
+* Disinformation...
+  
 ## Myth #1: We have always done it this way
 * A dangerous phrase that prevents innovation and adaptation to changing threats and environments
 * Examples: using passwords, relying on antivirus software, trusting certificates
